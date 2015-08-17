@@ -23,26 +23,26 @@ Changed `bootstrap3`_ theme with:
 awesome font
 ============
 
-Added `awesome font`_ files to fonts folder:
+Added `awesome font`_ files to fonts folder::
 
 	theme_folder/assets/fonts/
 
-Added *awesome css*, ``font-awesome.min.css``, to css folder:
+Added *awesome css*, ``font-awesome.min.css``, to css folder::
 
 	theme_folder/assets/css/
 
 cookie consent
 ==============
 
-Added *cookie consent css*, ``style.min.css``, to css folder:
+Added *cookie consent css*, ``style.min.css``, to css folder::
 
 	theme_folder/assets/css/
 
-Added *cookie consent js*, ``plugin.min.js``, to js folder:
+Added *cookie consent js*, ``plugin.min.js``, to js folder::
 
 	theme_folder/assets/js/
 
-Changed base and base_helper templates (``base.tmpl`` and ``base_helper.tmpl``) in templates folder:
+Changed base and base_helper templates (``base.tmpl`` and ``base_helper.tmpl``) in templates folder::
 
 	 theme_folder/templates/
 
